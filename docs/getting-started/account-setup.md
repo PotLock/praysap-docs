@@ -109,8 +109,8 @@ Before you can fully participate in PRAYSAP, you'll need to complete:
 Once your account is created:
 
 1. **[Complete Shahada Verification](./shahada-verification.md)** - Verify your Muslim identity
-2. **[Learn the Interface](./interface-overview.md)** - Get familiar with the app
-3. **[Join Your First Prayer](../user-guides/joining-prayers.md)** - Experience communal prayer
+2. **Learn the Interface** - Get familiar with the app
+3. **Join Your First Prayer** - Experience communal prayer
 
 ## Need Help?
 
@@ -118,7 +118,7 @@ If you encounter issues during account setup:
 
 - 📧 **Email Support**: support@praysap.com
 - 💬 **In-App Help**: Use the help button in settings
-- 📱 **Community Support**: [Visit our support section](../platform-resources/community-support.md)
+- 📱 **Community Support**: Visit our support section
 
 ---
 

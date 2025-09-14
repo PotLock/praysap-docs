@@ -24,20 +24,20 @@ Ready to join the global Muslim prayer community? Here's how to begin:
 
 1. **[Create Your Account](./getting-started/account-setup.md)** - Set up your PRAYSAP profile
 2. **[Complete Shahada Verification](./getting-started/shahada-verification.md)** - Verify your Muslim identity
-3. **[Join Your First Prayer](./user-guides/joining-prayers.md)** - Experience communal prayer digitally
+3. **Join Your First Prayer** - Experience communal prayer digitally
 
 ## Quick Navigation
 
 - **[About PRAYSAP](./about-praysap/mission-vision.md)** - Learn about our mission and values
 - **[User Guides](./user-guides/creating-prayers.md)** - Comprehensive guides for using the platform
-- **[Technical Information](./technical-information/blockchain-integration.md)** - Understanding our Web3 infrastructure
-- **[Platform Resources](./platform-resources/mobile-apps.md)** - Download apps and find support
+- **Technical Information** - Understanding our Web3 infrastructure
+- **Platform Resources** - Download apps and find support
 
 ## Community & Support
 
 Need help or want to connect with other PRAYSAP users?
 
-- 📧 **Support**: [Contact our team](./platform-resources/community-support.md)
+- 📧 **Support**: Contact our team
 - 💬 **Community**: Join our social channels
 - 📖 **FAQ**: Find answers to common questions
 

@@ -67,17 +67,17 @@ Error responses follow this format:
 
 | Section | Description |
 |---------|-------------|
-| **[Admin](./admin.md)** | Administrative functions and user management |
-| **[Moderation](./moderation.md)** | Content moderation and safety features |
-| **[Analytics](./analytics.md)** | Platform statistics and reporting |
+| **Admin** | Administrative functions and user management |
+| **Moderation** | Content moderation and safety features |
+| **Analytics** | Platform statistics and reporting |
 
 ### Utility
 
 | Section | Description |
 |---------|-------------|
-| **[Waitlist](./waitlist.md)** | Waitlist management for new users |
-| **[Safety](./safety.md)** | Emergency features and security |
-| **[Sharing](./sharing.md)** | Social sharing functionality |
+| **Waitlist** | Waitlist management for new users |
+| **Safety** | Emergency features and security |
+| **Sharing** | Social sharing functionality |
 
 ## Getting Started
 

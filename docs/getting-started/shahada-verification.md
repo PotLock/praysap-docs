@@ -117,9 +117,9 @@ If you experience problems during verification:
 
 After successful verification:
 
-1. **[Learn the Interface](./interface-overview.md)** - Get familiar with PRAYSAP features
-2. **[Join Your First Prayer](../user-guides/joining-prayers.md)** - Experience communal worship
-3. **[Complete Your Profile](../user-guides/profile-management.md)** - Add more details to connect with community
+1. **Learn the Interface** - Get familiar with PRAYSAP features
+2. **Join Your First Prayer** - Experience communal worship
+3. **Complete Your Profile** - Add more details to connect with community
 
 ## Support
 
