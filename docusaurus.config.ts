@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'PRAYSAP Documentation',
   tagline: 'Connect Muslims globally for prayer and community',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -57,12 +57,12 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/praysap-favicon.png',
     navbar: {
       title: 'PRAYSAP Docs',
       logo: {
         alt: 'PRAYSAP Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
@@ -75,16 +75,6 @@ const config: Config = {
           href: 'https://praysap.com',
           label: 'Main Site',
           position: 'left',
-        },
-        {
-          href: 'https://apps.apple.com/app/praysap',
-          label: 'iOS App',
-          position: 'right',
-        },
-        {
-          href: 'https://play.google.com/store/apps/details?id=com.praysap',
-          label: 'Android App', 
-          position: 'right',
         },
         {
           href: 'https://github.com/PotLock/praysap-docs',
@@ -114,36 +104,11 @@ const config: Config = {
           ],
         },
         {
-          title: 'Community',
-          items: [
-            {
-              label: 'Support',
-              href: 'mailto:support@praysap.com',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/praysap',
-            },
-            {
-              label: 'Instagram',
-              href: 'https://instagram.com/praysap',
-            },
-          ],
-        },
-        {
           title: 'Platform',
           items: [
             {
               label: 'Main Website',
               href: 'https://praysap.com',
-            },
-            {
-              label: 'iOS App',
-              href: 'https://apps.apple.com/app/praysap',
-            },
-            {
-              label: 'Android App',
-              href: 'https://play.google.com/store/apps/details?id=com.praysap',
             },
             {
               label: 'GitHub',
