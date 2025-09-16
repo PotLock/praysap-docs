@@ -57,7 +57,12 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/praysap-favicon.png',
+    image: 'img/praysap-social-card.png',
+    metadata: [
+      {name: 'og:image', content: 'https://docs.praysap.com/img/praysap-social-card.png'},
+      {name: 'twitter:card', content: 'summary_large_image'},
+      {name: 'twitter:image', content: 'https://docs.praysap.com/img/praysap-social-card.png'},
+    ],
     navbar: {
       title: 'PRAYSAP Docs',
       logo: {
