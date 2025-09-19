@@ -44,19 +44,6 @@ const sidebars: SidebarsConfig = {
         // 'user-guides/prayer-notifications',
       ],
     },
-    {
-      type: 'category',
-      label: 'API Reference',
-      items: [
-        'api-reference/index',
-        'api-reference/prayers',
-        'api-reference/users',
-        'api-reference/community',
-        // Add more API docs as they're created
-        // 'api-reference/admin',
-        // 'api-reference/waitlist',
-      ],
-    },
     // Uncomment sections below as content is added
     /*
     {
