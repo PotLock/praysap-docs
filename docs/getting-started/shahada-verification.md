@@ -34,6 +34,8 @@ Type the following statement in the designated textbox:
 2. Press **"Submit Verification"**
 3. You'll immediately see a "Shahada Verified" badge on your profile
 
+![Shahada Verified Profile](/img/praysap-screenshots/Shahada%20Verification.png)
+
 ## Common Questions
 
 ### Q: What if I'm a new Muslim?

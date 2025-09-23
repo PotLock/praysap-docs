@@ -17,16 +17,18 @@ Before hosting prayers, ensure you have:
 **Best for:** Regular five daily prayers (Fajr, Dhuhr, Asr, Maghrib, Isha)
 
 **Features:**
+
 - Automatic timing based on your location
 - Recurring daily schedule
 - Community can join easily
-- Prayer time notifications *(coming soon)*
+- Prayer time notifications _(coming soon)_
 
 ### 2. Special Occasion Prayers
 
 **Best for:** Jummah
 
 **Features:**
+
 - Custom scheduling
 - Enhanced community features
 - Special prayer formats
@@ -37,6 +39,7 @@ Before hosting prayers, ensure you have:
 **Best for:** Family prayers, study group prayers, private gatherings
 
 **Features:**
+
 - Invite-only access
 - Private sessions
 - Custom timing
@@ -48,13 +51,22 @@ Before hosting prayers, ensure you have:
 
 Open the app and tap the **"+ Host"** button at the bottom nav bar.
 
+![Bottom Navigation Bar](/img/praysap-screenshots/Bottom%20Navbar%20Container.png)
+
 ### Step 2: Read Guidelines
 
 Read all the initial necessary guidelines before continuing and then press **"Continue"**
 
+![Host Prayer Guidelines](/img/praysap-screenshots/Host-1.png)
+
+Select the type of place where you'll be hosting the prayer:
+
+![Place Selection](/img/praysap-screenshots/Host-2.png)
+
 ### Step 3: What Type of Prayer
 
 Select the type of prayer you want to host:
+
 - **Fajr**
 - **Dhuhr**
 - **Asr**
@@ -64,12 +76,16 @@ Select the type of prayer you want to host:
 
 The app will automatically fetch the time of the prayer in your area of hosting using the Prayers API and Google Maps API.
 
+![Prayer Type Selection](/img/praysap-screenshots/Host-3.png)
+
 ### Step 4: Prayer Info Screen
 
-- **Enter the Prayer Title** - Add a custom title like "Dhuhr Prayer for People Attending Near Conference in CS" or any custom title so users can know who's hosting this and if it's something specially hosted for some people. *Adding a title/description doesn't mean it's for only those people, anyone can join*
+- **Enter the Prayer Title** - Add a custom title like "Dhuhr Prayer for People Attending Near Conference in CS" or any custom title so users can know who's hosting this and if it's something specially hosted for some people. _Adding a title/description doesn't mean it's for only those people, anyone can join_
 - **Add a relevant description**
 - **Select "When is the Prayer"** - Today, Tomorrow, or a Custom Date
 - **Make this a recurring Prayer** (optional)
+
+![Prayer Information](/img/praysap-screenshots/Host-4.png)
 
 ### Step 5: What Does the Prayer Space Offer
 
@@ -85,22 +101,30 @@ The app will automatically fetch the time of the prayer in your area of hosting 
   - Wheelchair Accessible
 - **Required:** Select if there is a separate space for "Women Section" and "Men Section" or either one of them
 
+![Prayer Space Amenities](/img/praysap-screenshots/Host-5.png)
+
 ### Step 6: Resources You Can Provide
 
 (This is for the person hosting as well)
+
 - Available Prayer mats
 - Quran Copies
 - Wudu Area
 
+![Resources Available](/img/praysap-screenshots/Host-6.png)
+
 ### Step 7: What Do You Need Help With
 
 Request volunteers for:
+
 - **Imam** - To lead the prayer
 - **Muezzin** - To call the Adhan
 - **Sound System** - Equipment assistance
 - **Setup Assistance** - Help with arrangements
 
 Press **Continue**
+
+![Help Needed](/img/praysap-screenshots/Host-7.png)
 
 ### Step 8: What's Your Location
 
@@ -109,9 +133,13 @@ Press **Continue**
 
 Press **Continue**
 
-### Step 9: Prayer Summary
+![Location Selection](/img/praysap-screenshots/Host-8.png)
+
+### Step 9: Prayer Summary and Creation
 
 Check all the details of the prayer you are hosting. Verify all the details, and if it all looks good, press the button **"Looks Good"** to create the prayer. It will be visible for users to join.
+
+![Prayer Created Successfully](/img/praysap-screenshots/Host-9.png)
 
 ## Best Practices
 
@@ -126,18 +154,21 @@ Check all the details of the prayer you are hosting. Verify all the details, and
 ### Building Community
 
 **Welcome New Members**
+
 - Introduce yourself at the start
 - Explain the session format
 - Encourage participation
 - Provide guidance for newcomers
 
 **Foster Participation**
+
 - Ask for prayer intentions
 - Include different languages when possible
 - Leave time for community du'a
 - Share relevant Islamic content
 
 **Maintain Consistency**
+
 - Show up regularly for your own prayers
 - Communicate schedule changes early
 - Have backup leaders when possible
@@ -148,6 +179,7 @@ Check all the details of the prayer you are hosting. Verify all the details, and
 ### During the Prayer
 
 **Leadership Responsibilities:**
+
 - Start on time
 - Guide the prayer flow
 - Manage audio/video
@@ -155,6 +187,7 @@ Check all the details of the prayer you are hosting. Verify all the details, and
 - Include community in du'a
 
 **Technical Management:**
+
 - Monitor connection quality
 - Manage participant requests
 - Handle audio issues
@@ -163,12 +196,14 @@ Check all the details of the prayer you are hosting. Verify all the details, and
 ### After the Prayer
 
 **Community Follow-up:**
+
 - Thank participants
 - Share relevant resources
 - Address any questions
 - Plan future sessions
 
 **Session Analytics:**
+
 - Review attendance
 - Read participant feedback
 - Check technical performance
@@ -179,12 +214,14 @@ Check all the details of the prayer you are hosting. Verify all the details, and
 ### Technical Problems
 
 **Audio Issues:**
+
 - Check microphone permissions
 - Test audio before starting
 - Have participants restart app if needed
 - Use backup audio options
 
 **Connection Problems:**
+
 - Verify internet stability
 - Reduce video quality if needed
 - Have participants switch networks
@@ -193,12 +230,14 @@ Check all the details of the prayer you are hosting. Verify all the details, and
 ### Community Management
 
 **Disruptions:**
+
 - Use moderator tools
 - Address issues privately when possible
 - Remove disruptive participants if necessary
 - Document incidents for review
 
 **Low Attendance:**
+
 - Review timing and scheduling
 - Improve session descriptions
 - Engage with community outside prayer times
@@ -212,4 +251,4 @@ Need help creating effective prayer sessions?
 
 ---
 
-*"And when My servants ask you concerning Me, indeed I am near. I respond to the invocation of the supplicant when he calls upon Me."* - Quran 2:186
+_"And when My servants ask you concerning Me, indeed I am near. I respond to the invocation of the supplicant when he calls upon Me."_ - Quran 2:186
