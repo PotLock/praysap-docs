@@ -100,9 +100,7 @@ Coming soon - we're working on official SDKs for popular programming languages a
 
 For API support and questions:
 
-- 📧 **Developer Support**: api@praysap.com
-- 💬 **Community**: Join our developer Discord
-- 📚 **Documentation Issues**: Report on GitHub
+- 💬 **Developer Support**: https://t.me/praysap
 
 ---
 

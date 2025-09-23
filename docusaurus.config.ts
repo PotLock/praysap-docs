@@ -20,10 +20,8 @@ const config: Config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'PotLock', // Usually your GitHub org/user name.
-  projectName: 'praysap-docs', // Usually your repo name.
+  organizationName: 'PRAYSAP',
+  projectName: 'praysap-docs',
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -44,8 +42,6 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/PotLock/praysap-pwa',
         },
         blog: false, // Disable blog functionality
         theme: {
@@ -82,8 +78,18 @@ const config: Config = {
           position: 'left',
         },
         {
-          href: 'https://github.com/PotLock/praysap-docs',
-          label: 'GitHub',
+          href: 'https://twitter.com/praysap',
+          label: 'Twitter',
+          position: 'right',
+        },
+        {
+          href: 'https://www.linkedin.com/company/praysap',
+          label: 'LinkedIn',
+          position: 'right',
+        },
+        {
+          href: 'https://www.facebook.com/praysap',
+          label: 'Facebook',
           position: 'right',
         },
       ],
@@ -100,7 +106,7 @@ const config: Config = {
             },
             {
               label: 'User Guides',
-              to: '/docs/user-guides/creating-prayers',
+              to: '/docs/user-guides/host-prayer',
             },
             {
               label: 'About PRAYSAP',
@@ -116,13 +122,13 @@ const config: Config = {
               href: 'https://praysap.com',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/PotLock/praysap-docs',
+              label: 'Telegram',
+              href: 'https://t.me/praysap',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} PRAYSAP. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} PRAYSAP.`,
     },
     prism: {
       theme: prismThemes.github,

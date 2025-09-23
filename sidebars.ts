@@ -25,7 +25,7 @@ const sidebars: SidebarsConfig = {
       ],
     },
     {
-      type: 'category', 
+      type: 'category',
       label: 'Getting Started',
       items: [
         'getting-started/account-setup',
@@ -35,15 +35,17 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'User Guides', 
+      label: 'User Guides',
       items: [
-        'user-guides/creating-prayers',
+        'user-guides/host-prayer',
+        'user-guides/joining-prayers',
         // Add more user guide pages as they're created
-        // 'user-guides/joining-prayers',
         // 'user-guides/profile-management',
         // 'user-guides/prayer-notifications',
       ],
     },
+    'faq',
+    'socials',
     // Uncomment sections below as content is added
     /*
     {

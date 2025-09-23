@@ -116,9 +116,7 @@ Once your account is created:
 
 If you encounter issues during account setup:
 
-- 📧 **Email Support**: support@praysap.com
-- 💬 **In-App Help**: Use the help button in settings
-- 📱 **Community Support**: Visit our support section
+- 💬 **Telegram Support**: https://t.me/praysap
 
 ---
 
